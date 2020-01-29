@@ -26,6 +26,9 @@ These are three files working together
 2) startTracker.bat - will run myStart.bat and log the execution to C:\myTmp
 3) showTracker.bat - will display the log file
 
+#### openFile
+Run the bat file and input a file to open or print, input a numeric selection. The bat file will then use the exe to validate the input. If the input is valid it will execute the users selection 
+
 ## Author
 
 [Billy Parmenter](https://github.com/billyParmenter)
